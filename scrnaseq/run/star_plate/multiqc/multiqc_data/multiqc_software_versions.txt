@@ -1,0 +1,8 @@
+Sample	r-base	anndataR	SeuratObject	SingleCellExperiment	python	scanpy	fastqc	gunzip	pandas	anndata	star	nf-core/scrnaseq	Nextflow
+ANNDATAR_CONVERT	R version 4.4.2 (2024-10-31)	0.99.0	5.0.2	1.28.1									
+CONCAT_H5AD					3.12.5	1.10.2							
+FastQC							0.12.1						
+GUNZIP_FASTA								1.1					
+MTX_TO_H5AD					3.12.5	1.10.2			2.2.2	0.10.8			
+STAR_ALIGN											2.7.10b		
+Workflow												v3.0.0	24.10.0

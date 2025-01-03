@@ -1,0 +1,5 @@
+.nextflow
+null
+nf-*
+star_plate/gunzip
+star_plate/star

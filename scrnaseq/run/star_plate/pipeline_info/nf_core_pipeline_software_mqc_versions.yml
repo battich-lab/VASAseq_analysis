@@ -1,0 +1,22 @@
+ANNDATAR_CONVERT:
+  r-base: R version 4.4.2 (2024-10-31)
+  anndataR: 0.99.0
+  SeuratObject: 5.0.2
+  SingleCellExperiment: 1.28.1
+CONCAT_H5AD:
+  python: 3.12.5
+  scanpy: 1.10.2
+FASTQC:
+  fastqc: 0.12.1
+GUNZIP_FASTA:
+  gunzip: 1.1
+MTX_TO_H5AD:
+  python: 3.12.5
+  scanpy: 1.10.2
+  pandas: 2.2.2
+  anndata: 0.10.8
+STAR_ALIGN:
+  star: 2.7.10b
+Workflow:
+    nf-core/scrnaseq: v3.0.0
+    Nextflow: 24.10.0
