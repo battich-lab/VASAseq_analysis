@@ -3,4 +3,4 @@ FastQC	0.12.1
 GUNZIP_FASTA		1.1							
 MTX_TO_H5AD			3.12.5	1.10.2	2.2.2	0.10.8			
 STAR_ALIGN							2.7.10b		
-Workflow								vdev	24.10.0
+Workflow								v3.1.0dev	24.10.0
