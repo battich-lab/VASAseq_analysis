@@ -1,8 +1,8 @@
-2CLCmesc_1_S1	2CLCmesc_1_RR_S9	combined_1	2
-2CLCmesc_2_S2	2CLCmesc_2_RR_S10	combined_2	2
-2CLCmesc_3_S5	2CLCmesc_3_RR_S11	combined_3	2
-2CLCmesc_4_S6	2CLCmesc_4_RR_S12	combined_4	2
-2CLCmesc_5_S7	2CLCmesc_5_RR_S13	combined_5	2
-2CLCmesc_6_S8	2CLCmesc_6_RR_S14	combined_6	2
-2CLCmesc_0-0-3_S15	2CLCmesc_003_RR_S3	combined_003	1
-2CLCmesc_0-0-4_S16	2CLCmesc_004_RR_S4	combined_004	1
+1	2CLCmesc_1_S1	2CLCmesc_1_RR_S9	combined_1	2
+2	2CLCmesc_2_S2	2CLCmesc_2_RR_S10	combined_2	2
+3	2CLCmesc_3_S5	2CLCmesc_3_RR_S11	combined_3	2
+4	2CLCmesc_4_S6	2CLCmesc_4_RR_S12	combined_4	2
+5	2CLCmesc_5_S7	2CLCmesc_5_RR_S13	combined_5	2
+6	2CLCmesc_6_S8	2CLCmesc_6_RR_S14	combined_6	2
+003	2CLCmesc_0-0-3_S15	2CLCmesc_003_RR_S3	combined_003	1
+004	2CLCmesc_0-0-4_S16	2CLCmesc_004_RR_S4	combined_004	1
