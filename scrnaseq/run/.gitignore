@@ -3,3 +3,6 @@ null
 nf-*
 star_plate/gunzip
 star_plate/star
+kallisto_plate/gunzip
+kallisto_plate/kallisto
+kallisto_plate/kallistobustools

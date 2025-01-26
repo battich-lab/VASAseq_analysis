@@ -1,0 +1,16 @@
+FASTQC:
+  fastqc: 0.12.1
+GUNZIP_FASTA:
+  gunzip: 1.1
+KALLISTOBUSTOOLS_COUNT:
+  kallistobustools: 0.29.1
+KALLISTOBUSTOOLS_REF:
+  kallistobustools: 0.28.2
+MTX_TO_H5AD:
+  python: 3.12.5
+  scanpy: 1.10.2
+  pandas: 2.2.2
+  anndata: 0.10.8
+Workflow:
+    nf-core/scrnaseq: v3.1.0dev
+    Nextflow: 24.10.0
