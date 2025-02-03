@@ -1,7 +1,0 @@
-Sample	fastqc	gunzip	kallistobustools	python	scanpy	pandas	anndata	nf-core/scrnaseq	Nextflow
-FastQC	0.12.1								
-GUNZIP_FASTA		1.1							
-KALLISTOBUSTOOLS_COUNT			0.29.1						
-KALLISTOBUSTOOLS_REF			0.28.2						
-MTX_TO_H5AD				3.12.5	1.10.2	2.2.2	0.10.8		
-Workflow								v3.1.0dev	24.10.0

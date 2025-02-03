@@ -1,6 +1,6 @@
-Sample	fastqc	gunzip	python	scanpy	pandas	anndata	star	nf-core/scrnaseq	Nextflow
-FastQC	0.12.1								
-GUNZIP_FASTA		1.1							
-MTX_TO_H5AD			3.12.5	1.10.2	2.2.2	0.10.8			
-STAR_ALIGN							2.7.10b		
-Workflow								v3.1.0dev	24.10.0
+Sample	fastqc	python	scanpy	pandas	anndata	star	samtools	gawk	nf-core/scrnaseq	Nextflow
+FastQC	0.12.1									
+MTX_TO_H5AD		3.12.5	1.10.2	2.2.2	0.10.8					
+STAR_ALIGN						2.7.10b				
+STAR_GENOMEGENERATE						2.7.10a	1.18	5.1.0		
+Workflow									v3.1.0dev	24.10.0

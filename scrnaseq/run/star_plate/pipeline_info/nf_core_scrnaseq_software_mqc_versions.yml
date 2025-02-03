@@ -1,7 +1,5 @@
 FASTQC:
   fastqc: 0.12.1
-GUNZIP_FASTA:
-  gunzip: 1.1
 MTX_TO_H5AD:
   python: 3.12.5
   scanpy: 1.10.2
@@ -9,6 +7,10 @@ MTX_TO_H5AD:
   anndata: 0.10.8
 STAR_ALIGN:
   star: 2.7.10b
+STAR_GENOMEGENERATE:
+  star: 2.7.10a
+  samtools: 1.18
+  gawk: 5.1.0
 Workflow:
     nf-core/scrnaseq: v3.1.0dev
     Nextflow: 24.10.0
