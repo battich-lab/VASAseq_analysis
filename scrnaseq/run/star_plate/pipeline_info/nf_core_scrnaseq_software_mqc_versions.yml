@@ -13,4 +13,4 @@ STAR_GENOMEGENERATE:
   gawk: 5.1.0
 Workflow:
     nf-core/scrnaseq: v3.1.0dev
-    Nextflow: 24.10.0
+    Nextflow: 24.04.4
