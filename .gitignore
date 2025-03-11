@@ -2,6 +2,7 @@
 pre-testing
 scrnaseq/pipeline
 *.h5ad
+analysis/MARVEL
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
